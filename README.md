@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+My name is Abduljelil Akande Adeola. A budding data scientist. Welcome to my world
 <!--
 **DevAdeola/DevAdeola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
